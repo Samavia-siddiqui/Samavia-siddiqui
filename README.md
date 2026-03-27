@@ -34,17 +34,11 @@
 
 ---
 
-
-
-<!-- <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Samavia-siddiqui&show_icons=true&theme=radical&border_radius=15" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Samavia-siddiqui&layout=compact&theme=radical&border_radius=15" height="180"/>
-</p> -->
 ## 📊 GitHub Stats
-
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=samavia-siddiqui&show_icons=true&theme=radical)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=samavia-siddiqui&layout=compact&theme=radical)
+
 ---
 
 ## 🔥 GitHub Streak
