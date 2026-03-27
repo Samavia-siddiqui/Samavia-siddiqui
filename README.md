@@ -37,8 +37,8 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical&border_radius=15" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical&border_radius=15" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Samavia-siddiqui&show_icons=true&theme=radical&border_radius=15" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Samavia-siddiqui&layout=compact&theme=radical&border_radius=15" height="180"/>
 </p>
 
 ---
@@ -46,7 +46,7 @@
 ## 🔥 GitHub Streak
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=radical&border_radius=15" />
+  <img src="https://streak-stats.demolab.com?user=Samavia-siddiqui&theme=radical&border_radius=15" />
 </p>
 
 ---
@@ -54,11 +54,11 @@
 ## 🌐 Connect With Me
 
 <p align="center">
-  <a href="https://github.com/YOUR_USERNAME" target="_blank">
+  <a href="https://github.com/Samavia-siddiqui" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-ff69b4?style=for-the-badge&logo=github&logoColor=white" />
   </a>
   
-  <a href="https://www.instagram.com/YOUR_INSTAGRAM_USERNAME/" target="_blank">
+  <a href="https://www.instagram.com/Samavia siddiqi/" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-ff69b4?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
 </p>
@@ -82,7 +82,7 @@
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=ff69b4&style=flat" alt="profile views" />
+  <img src="https://komarev.com/ghpvc/?username=Samavia-siddiqui&label=Profile%20Views&color=ff69b4&style=flat" alt="profile views" />
 </p>
 
 <p align="center">
