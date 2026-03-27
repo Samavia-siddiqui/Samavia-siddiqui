@@ -7,6 +7,9 @@
 <p align="center">
   <img src="https://media.tenor.com/images/3d80f6f93f6c6f4b8dce7fbe6f4c7b1b/tenor.gif" width="280" alt="pink aesthetic coder gif"/>
 </p>
+<p align="center">
+  <img src="https://media.tenor.com/images/4f8fbc2d88f75f68d8c8e22f9dfe67b5/tenor.gif" width="300" alt="minimal laptop gif"/>
+</p>
 
 ## 🌸 About Me
 
