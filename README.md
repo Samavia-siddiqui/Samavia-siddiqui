@@ -4,9 +4,8 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=FF69B4&size=26&center=true&vCenter=true&width=700&lines=Welcome+to+my+GitHub+Profile!;Web+Development+Student;Learning+Full+Stack+Development;Love+UI%2C+Animations+%26+Creative+Projects" />
 </p>
-
 <p align="center">
-  <img src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif" width="320" alt="coding gif"/>
+  <img src="https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif" width="320" alt="programmer gif"/>
 </p>
 
 ## 🌸 About Me
