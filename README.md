@@ -5,10 +5,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?color=FF69B4&size=26&center=true&vCenter=true&width=700&lines=Welcome+to+my+GitHub+Profile!;Web+Development+Student;Learning+Full+Stack+Development;Love+UI%2C+Animations+%26+Creative+Projects" />
 </p>
 <p align="center">
-  <img src="https://media.tenor.com/images/3d80f6f93f6c6f4b8dce7fbe6f4c7b1b/tenor.gif" width="280" alt="pink aesthetic coder gif"/>
-</p>
-<p align="center">
-  <img src="https://media.tenor.com/images/4f8fbc2d88f75f68d8c8e22f9dfe67b5/tenor.gif" width="300" alt="minimal laptop gif"/>
+  <img src="https://media.tenor.com/images/6f4b0d47f8f5b4b7c5c6b8a1d5d8a8b0/tenor.gif" width="300" alt="professional coding gif"/>
 </p>
 
 ## 🌸 About Me
