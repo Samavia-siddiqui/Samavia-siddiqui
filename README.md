@@ -4,8 +4,10 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=FF69B4&size=26&center=true&vCenter=true&width=700&lines=Welcome+to+my+GitHub+Profile!;Web+Development+Student;Learning+Full+Stack+Development;Love+UI%2C+Animations+%26+Creative+Projects" />
 </p>
+## 💻 Coding Vibes
+
 <p align="center">
-  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="320" />
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="350" alt="coding gif"/>
 </p>
 ---
 
