@@ -1,6 +1,10 @@
 <h1 align="center">Hi 👋, I'm Samavia</h1>
 <h3 align="center">💻 Web Development Student | Future Full Stack Developer | UI Lover ✨</h3>
-
+<p align="center">
+  <a href="https://github.com/Samavia-siddiqui">
+    <img src="https://media.giphy.com/media/HmQeQ72ww4AHCr1kPP/giphy.gif" width="320" alt="cute coder gif"/>
+  </a>
+</p>
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=FF69B4&size=26&center=true&vCenter=true&width=700&lines=Welcome+to+my+GitHub+Profile!;Web+Development+Student;Learning+Full+Stack+Development;Love+UI%2C+Animations+%26+Creative+Projects" />
 </p>
