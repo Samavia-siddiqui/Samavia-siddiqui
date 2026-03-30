@@ -4,8 +4,9 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=FF69B4&size=26&center=true&vCenter=true&width=700&lines=Welcome+to+my+GitHub+Profile!;Web+Development+Student;Learning+Full+Stack+Development;Love+UI%2C+Animations+%26+Creative+Projects" />
 </p>
+
 <p align="center">
-  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExeHRiZGhoeHYxaWhla3JyZnJocHNjMTU5dGhwcGh3a2pnYjN2YWZ4MCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/UWVH5JvEh3Dp9o3Osx/giphy.gif" width="300" alt="Girl coder gif" />
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExY2N5ZnMyY2Q0ZzF6aG5ocDB1cm5rZHVwaHFibzZ6OWJidTJiYzIxayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/NgurY1o4z080Jfoyzw/giphy.gif" width="300" alt="Career developer gif" />
 </p>
 
 
@@ -86,8 +87,9 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Samavia-siddiqui&label=Profile%20Views&color=ff69b4&style=flat" alt="profile views" />
 </p>
+
 <p align="center">
-  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExY2N5ZnMyY2Q0ZzF6aG5ocDB1cm5rZHVwaHFibzZ6OWJidTJiYzIxayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/NgurY1o4z080Jfoyzw/giphy.gif" width="300" alt="Career developer gif" />
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExeHRiZGhoeHYxaWhla3JyZnJocHNjMTU5dGhwcGh3a2pnYjN2YWZ4MCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/UWVH5JvEh3Dp9o3Osx/giphy.gif" width="300" alt="Girl coder gif" />
 </p>
 <p align="center">
   💖 Thanks for visiting my profile 💖
