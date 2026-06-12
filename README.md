@@ -1,9 +1,7 @@
 <div align="center">
 
-<!-- HEADER -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Samavia%20Siddiqui&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Frontend%20Developer%20%7C%20Full%20Stack%20in%20Progress&descAlignY=55&descSize=16" width="100%"/>
 
-<!-- TYPING -->
 <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=18&pause=1000&color=FF2D78&center=true&vCenter=true&width=600&lines=Building+interfaces+people+love+%F0%9F%92%BB;React+%7C+Tailwind+%7C+Node.js+%7C+MongoDB;Shipping+real+projects%2C+not+just+code;Open+to+opportunities+%F0%9F%9A%80" />
 
 <br/>
@@ -22,9 +20,9 @@ const samavia = {
   learning    : ["Node.js", "Express.js", "MongoDB"],
   currentFocus: "Full Stack Development",
   education   : "SMIT — Saylani Mass IT Training",
-  deployed    : "samavia-portfolio.vercel.app",
+  portfolio   : "samavia-portfolio.vercel.app",
   email       : "samaviasiddiqui3@gmail.com",
-  available   : true
+  available   : true // open to opportunities
 };
 ```
 
@@ -98,6 +96,11 @@ const samavia = {
 ---
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
-  <img src="https://komarev.com/ghpvc/?username=Samavia-siddiqui&label=Profile+Views&color=FF2D78&style=flat" />
+
+*"Build things. Ship things. Keep going."*
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
+
+<img src="https://komarev.com/ghpvc/?username=Samavia-siddiqui&label=Profile+Views&color=FF2D78&style=flat" />
+
 </div>
