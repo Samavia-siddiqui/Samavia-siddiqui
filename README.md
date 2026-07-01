@@ -1,34 +1,67 @@
 <div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Samavia%20Siddiqui&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Frontend%20Developer%20%7C%20Full%20Stack%20in%20Progress&descAlignY=55&descSize=16" width="100%"/>
-
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=18&pause=1000&color=FF2D78&center=true&vCenter=true&width=600&lines=Building+interfaces+people+love+%F0%9F%92%BB;React+%7C+Tailwind+%7C+Node.js+%7C+MongoDB;Shipping+real+projects%2C+not+just+code;Open+to+opportunities+%F0%9F%9A%80" />
-
-<br/>
-
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="260" alt="girl coder"/>
+<img src="https://capsule-render.vercel.app/api?type=cylinder&color=gradient&customColorList=19,20,25&height=200&section=header&text=Samavia%20Siddiqui&fontSize=46&fontColor=fff&animation=twinkling&fontAlignY=45&desc=Frontend%20Developer%20%7C%20GBOB%20Specialist%20%7C%20Full%20Stack%20in%20Progress&descAlignY=65&descSize=14" width="100%"/>
+  
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=15&pause=1000&color=00E5C3&center=true&vCenter=true&width=680&lines=💻+Building+clean+web+interfaces+with+React+%26+Tailwind;🔗+Guest+Post+%26+Link+Building+Outreach+Specialist;🌿+Tech+%7C+Health+%7C+Finance+%7C+Fashion+%7C+Home+Decor;📚+SMIT+Batch+17+%7C+Full+Stack+by+July+2026;✍️+Content+Writer+%7C+SEO+%7C+Backlink+Placements" />
 
 </div>
 
 ---
 
-## `whoami`
+<div align="center">
+
+<img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="280" alt="girl typing coding"/>
+
+</div>
+
+---
+
+<div align="center">
+
+```
+┌─────────────────────────────────────────────────────────────┐
+│                                                             │
+│   💻  DEV SIDE      →   React · JS · Node · MongoDB        │
+│   🔗  GBOB SIDE     →   Outreach · Backlinks · Content     │
+│   📚  LEARNING      →   Full Stack @ SMIT Batch 17         │
+│   📍  LOCATION      →   Karachi, Pakistan                  │
+│                                                             │
+└─────────────────────────────────────────────────────────────┘
+```
+
+</div>
+
+---
+
+## 🧠 `whoami`
 
 ```javascript
 const samavia = {
-  role        : "Frontend Developer",
-  learning    : ["Node.js", "Express.js", "MongoDB"],
-  currentFocus: "Full Stack Development",
-  education   : "SMIT — Saylani Mass IT Training",
-  portfolio   : "samavia-portfolio.vercel.app",
-  email       : "samaviasiddiqui3@gmail.com",
-  available   : true // open to opportunities
+
+  // 💻 Developer Side
+  role         : "Frontend Developer → Full Stack (July 2026)",
+  devStack     : ["React.js", "JavaScript", "Tailwind CSS", "HTML/CSS"],
+  learning     : ["Node.js", "Express.js", "MongoDB"],
+  education    : "SMIT — Saylani Mass IT Training | Batch 17",
+  teacher      : "Ms. Tayyaba Ali",
+
+  // 🔗 GBOB Side
+  gbobRole     : "Guest Post & Link Building Outreach Specialist",
+  niches       : ["Tech", "Health", "Finance", "Fashion", "Home Decor"],
+  services     : ["Vendor Research", "Cold Outreach", "Backlinks", "Content Writing"],
+
+  // 🌍 Info
+  location     : "Karachi, Pakistan 🇵🇰",
+  portfolio    : "samavia-portfolio.vercel.app",
+  email        : "samaviasiddiqui3@gmail.com",
+  openTo       : true,   // freelance + collaborations
+  motto        : "Checkmarks > Excuses. ✅"
+
 };
 ```
 
 ---
 
-## 🛠 Tech Stack
+## 💻 Dev Stack
 
 <div align="center">
 <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,bootstrap,nodejs,express,mongodb,git,github,vscode,figma&perline=7" />
@@ -36,14 +69,40 @@ const samavia = {
 
 ---
 
-## 🚀 Projects
+## 🔗 GBOB Services
+
+<div align="center">
+
+| 🎯 Service | 📋 Details |
+|---|---|
+| **Niche Vendor Research** | Tech · Health · Finance · Fashion · Home Decor |
+| **Cold Email Outreach** | Personalized campaigns to high-DA/DR sites |
+| **Site Vetting** | DA · DR · Traffic · AS check before placement |
+| **Content Writing** | SEO-optimized guest posts for niche placements |
+| **Backlink Reporting** | Live URL + DA/DR proof delivered to clients |
+
+</div>
+
+---
+
+## 🚀 Dev Projects
 
 | # | Project | Description | Tech | Live |
 |---|---------|-------------|------|------|
 | 01 | **Prime Estates** | Responsive real estate landing page | HTML · CSS · JS | [↗](https://samavia-portfolio.vercel.app) |
-| 02 | **DevFlow** | Full project — strongest in portfolio | React · Tailwind | [↗](https://github.com/Samavia-siddiqui) |
+| 02 | **DevFlow** | Strongest project in portfolio | React · Tailwind | [↗](https://github.com/Samavia-siddiqui) |
 | 03 | **Music Player** | Custom vinyl UI with playlist | HTML · CSS · JS | [↗](https://github.com/Samavia-siddiqui) |
 | 04 | **Calculator App** | Clean functional calculator | HTML · CSS · JS | [↗](https://github.com/Samavia-siddiqui) |
+
+---
+
+## 📝 Latest Article
+
+<div align="center">
+
+[![Article](https://img.shields.io/badge/📖_Read_on_LinkedIn-How_I_Find_Guest_Post_Vendors_for_Free-7C3AED?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/pulse/how-i-find-guest-post-vendors-free-paid-tools-needed-samavia-siddiqui-k4mze)
+
+</div>
 
 ---
 
@@ -51,25 +110,25 @@ const samavia = {
 
 <div align="center">
 
-![](https://img.shields.io/badge/JavaScript_Essentials-Cisco_Networking_Academy-FF2D78?style=flat-square&logo=cisco&logoColor=white)
-![](https://img.shields.io/badge/HTML_&_CSS-Cisco_Networking_Academy-FF2D78?style=flat-square&logo=cisco&logoColor=white)
-![](https://img.shields.io/badge/Intro_to_Cybersecurity-Cisco_Networking_Academy-FF2D78?style=flat-square&logo=cisco&logoColor=white)
-![](https://img.shields.io/badge/Digital_Skills-HP_LIFE-FF2D78?style=flat-square&logo=hp&logoColor=white)
-![](https://img.shields.io/badge/Verified_Credential-Credly-FF2D78?style=flat-square&logo=credly&logoColor=white)
+![](https://img.shields.io/badge/JavaScript_Essentials-Cisco-00E5C3?style=flat-square&logo=cisco&logoColor=white)
+![](https://img.shields.io/badge/HTML_&_CSS-Cisco-00E5C3?style=flat-square&logo=cisco&logoColor=white)
+![](https://img.shields.io/badge/Cybersecurity-Cisco-00E5C3?style=flat-square&logo=cisco&logoColor=white)
+![](https://img.shields.io/badge/AI_for_Business-HP_LIFE-7C3AED?style=flat-square&logo=hp&logoColor=white)
+![](https://img.shields.io/badge/Verified-Credly-7C3AED?style=flat-square&logo=credly&logoColor=white)
 
 </div>
 
 ---
 
-## 📊 Stats
+## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Samavia-siddiqui&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=FF2D78&icon_color=FF2D78&text_color=ffffff&cache_seconds=1800" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Samavia-siddiqui&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=FF2D78&text_color=ffffff&cache_seconds=1800" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Samavia-siddiqui&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=00E5C3&icon_color=7C3AED&text_color=ffffff&cache_seconds=1800" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Samavia-siddiqui&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=00E5C3&text_color=ffffff&cache_seconds=1800" height="165"/>
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=Samavia-siddiqui&theme=tokyonight&hide_border=true&background=0D1117&ring=FF2D78&fire=FF2D78&currStreakLabel=FF2D78" />
+  <img src="https://streak-stats.demolab.com?user=Samavia-siddiqui&theme=dark&hide_border=true&background=0D1117&ring=00E5C3&fire=7C3AED&currStreakLabel=00E5C3" />
 </div>
 
 ---
@@ -86,10 +145,10 @@ const samavia = {
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=FF2D78)](https://github.com/Samavia-siddiqui)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=FF2D78)](https://www.linkedin.com/in/samavia-siddiqui)
-[![Portfolio](https://img.shields.io/badge/Portfolio-0D1117?style=for-the-badge&logo=vercel&logoColor=FF2D78)](https://samavia-portfolio.vercel.app)
-[![Gmail](https://img.shields.io/badge/Gmail-0D1117?style=for-the-badge&logo=gmail&logoColor=FF2D78)](mailto:samaviasiddiqui3@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=00E5C3)](https://github.com/Samavia-siddiqui)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=7C3AED)](https://www.linkedin.com/in/samavia-siddiqui-398322381)
+[![Portfolio](https://img.shields.io/badge/Portfolio-0D1117?style=for-the-badge&logo=vercel&logoColor=00E5C3)](https://samavia-portfolio.vercel.app)
+[![Gmail](https://img.shields.io/badge/Gmail-0D1117?style=for-the-badge&logo=gmail&logoColor=7C3AED)](mailto:samaviasiddiqui3@gmail.com)
 
 </div>
 
@@ -97,10 +156,10 @@ const samavia = {
 
 <div align="center">
 
-*"Build things. Ship things. Keep going."*
+*"Build things. Place links. Keep going. ✅"*
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=cylinder&color=gradient&customColorList=19,20,25&height=100&section=footer&reversal=true" width="100%"/>
 
-<img src="https://komarev.com/ghpvc/?username=Samavia-siddiqui&label=Profile+Views&color=FF2D78&style=flat" />
+<img src="https://komarev.com/ghpvc/?username=Samavia-siddiqui&label=Profile+Views&color=00E5C3&style=flat" />
 
 </div>
