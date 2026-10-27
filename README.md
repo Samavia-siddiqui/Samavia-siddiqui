@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0A0A0B&height=170&section=header&text=Samavia%20Siddiqui&fontSize=46&fontColor=FFFFFF&desc=Full%20Stack%20Developer%20%7C%20React%20%C2%B7%20Node.js%20%C2%B7%20MongoDB&descSize=18&descAlignY=68&fontAlignY=42" width="100%" alt="Samavia Siddiqui, Full Stack Developer"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0A0A0B&height=170&section=header&text=Samavia%20Siddiqui&fontSize=46&fontColor=FFFFFF&desc=Full%20Stack%20Developer%20%7C%20React%20%7C%20Node.js%20%7C%20MongoDB&fontSize=22" alt="Samavia Siddiqui Header"/>
 
 **I build fast, animated web apps for businesses that want to stand out.**
 
@@ -13,7 +13,7 @@
 
 ## 👋 About
 
-Full Stack Developer from **Karachi, Pakistan**, working with the **MERN stack**. I'm also a Front-end AI Engineering intern at FlyRank AI. I've built **15 live projects**, from landing pages to full stack apps with login, dashboards and APIs.
+Full Stack Developer from **Karachi, Pakistan**, working with the **MERN stack**. I'm also a Front-end AI Engineering intern at FlyRank AI. I've built **15 live projects**, from landing pages to full-stack apps and AI experiences.
 
 Open to **freelance web development** projects.
 
@@ -53,10 +53,10 @@ Get a quote: [samavia-siddiqui.vercel.app](https://samavia-siddiqui.vercel.app)
 
 | Project | What it is | Tech | Links |
 |---|---|---|---|
-| **Orbit Support Flow** | Real-time support ticket dashboard with agent roles, WebSockets and JWT login | React · Node.js · Express · MongoDB | [Live](https://orbit-support-flow-final-hackathon.vercel.app/) · [Code](https://github.com/Samavia-siddiqui/Orbit-Support-Flow-Final-Hackathon-Project) |
-| **SplitEasy** | Shared expense tracker with groups, invites and balance settlement | React · Node.js · Express · MongoDB | [Live](https://expence-traker-psi.vercel.app/) · [Code](https://github.com/Samavia-siddiqui/Expence-traker) |
-| **StudyMate** | AI study assistant that builds 3-day roadmaps by subject and importance | React · Node.js · Express · MongoDB · AI | [Live](https://studymate-ai-bay-delta.vercel.app/) · [Code](https://github.com/Samavia-siddiqui/Studymate-Ai) |
-| **GlowNotes** | Notes app with full CRUD, dark mode and Framer Motion animations | React · Node.js · Express · MongoDB | [Live](https://notes-app-tawny-rho-40.vercel.app/) · [Code](https://github.com/Samavia-siddiqui/NotesApp) |
+| **Orbit Support Flow** | Real-time support ticket dashboard with agent roles, WebSockets and JWT login | React · Node.js · Express · MongoDB | [Live](https://orbit-support-flow-final-hackatho...) · [Code](https://github.com/Samavia-siddiqui/Orbit-Support-Flow) |
+| **SplitEasy** | Shared expense tracker with groups, invites and balance settlement | React · Node.js · Express · MongoDB | [Live](https://expence-traker-psi.vercel.app/) · [Code](https://github.com/Samavia-siddiqui/Expense-Tracker) |
+| **StudyMate** | AI study assistant that builds 3-day roadmaps by subject and importance | React · Node.js · Express · MongoDB · AI | [Live](https://studymate-ai-bay-delta.vercel.app/) · [Code](https://github.com/Samavia-siddiqui/StudyMate-AI) |
+| **GlowNotes** | Notes app with full CRUD, dark mode and Framer Motion animations | React · Node.js · Express · MongoDB | [Live](https://notes-app-tawny-rho-40.vercel.app/) · [Code](https://github.com/Samavia-siddiqui/Notes-App) |
 | **ShowCase** | Developer hub to add and browse projects with accounts | React · Node.js · Express · MongoDB | [Code](https://github.com/Samavia-siddiqui/Project-showcaser-App) |
 
 <details>
@@ -66,11 +66,11 @@ Get a quote: [samavia-siddiqui.vercel.app](https://samavia-siddiqui.vercel.app)
 
 | Project | What it is | Tech | Links |
 |---|---|---|---|
-| **Sami's Collections** | E-commerce front-end with cart, blog and contact form | React · Tailwind · Framer Motion | [Live](https://ecommerce-store-chi-five.vercel.app/) · [Code](https://github.com/Samavia-siddiqui/Ecommerce-Store) |
+| **Sami's Collections** | E-commerce front-end with cart, blog and contact form | React · Tailwind · Framer Motion | [Live](https://ecommerce-store-chi-five.vercel.app/) · [Code](https://github.com/Samavia-siddiqui/Sami-s-Collections) |
 | **Verde** | Sneaker store with quick add and dark/light mode | React · Tailwind · Framer Motion | [Live](https://shoe-web-two.vercel.app/) · [Code](https://github.com/Samavia-siddiqui/Shoe-web) |
 | **CraveBite** | Fast food website with menu, cart buttons and contact form | React · Tailwind · Framer Motion | [Live](https://fast-food-website-vr2g.vercel.app/) · [Code](https://github.com/Samavia-siddiqui/CraveBite) |
 | **HerDailyFinds** | Lifestyle blog with curated finds and dark mode | React · Tailwind · Framer Motion | [Live](https://her-daily-finds.vercel.app/) · [Code](https://github.com/Samavia-siddiqui/HerDailyFinds) |
-| **FlavorRush** | Dark animated single-page restaurant site | React · TypeScript · Vite · Tailwind | [Live](https://fast-food-website-blond.vercel.app/) · [Code](https://github.com/Samavia-siddiqui/Fast-food-website) |
+| **FlavorRush** | Dark animated single-page restaurant site | React · TypeScript · Vite · Tailwind | [Live](https://fast-food-website-blond.vercel.app/) · [Code](https://github.com/Samavia-siddiqui/FlavorRush) |
 | **Devflow** | SaaS-style landing page with reusable components | React · Tailwind | [Live](https://dev-flow-topaz.vercel.app/) · [Code](https://github.com/Samavia-siddiqui/DevFlow) |
 | **BloomHaven** | Flower shop website with reusable components | React | [Live](https://bloom-haven-gules.vercel.app/) · [Code](https://github.com/Samavia-siddiqui/Bloom-Haven) |
 | **BLOOMING Creations** | Flower bouquet site in pure HTML and CSS | HTML · CSS | [Live](https://samavia-siddiqui.github.io/BLOOMING-creations/) · [Code](https://github.com/Samavia-siddiqui/BLOOMING-creations) |
@@ -88,29 +88,29 @@ Get a quote: [samavia-siddiqui.vercel.app](https://samavia-siddiqui.vercel.app)
 <table>
   <tr>
     <td align="center" width="33%">
-      <a href="certificates/previews/smit-modern-web-application-development.png"><img src="certificates/previews/smit-modern-web-application-development.png" width="260" alt="Modern Web Application Development"/></a><br/>
+      <a href="smit-modern-web-application-development.png"><img src="smit-modern-web-application-development.png" width="260" alt="Modern Web Application Development"/></a><br/>
       <sub><b>Modern Web Application Development</b><br/>Saylani Mass IT Training · May 2025 to Jul 2026</sub>
     </td>
     <td align="center" width="33%">
-      <a href="certificates/women-tech-quest-2026-participation.pdf"><img src="certificates/previews/women-tech-quest-2026-participation.png" width="260" alt="Women Tech Quest 2026: Build with AI"/></a><br/>
+      <a href="women-tech-quest-2026-participation.pdf"><img src="women-tech-quest-2026-participation.png" width="260" alt="Women Tech Quest 2026: Build with AI"/></a><br/>
       <sub><b>Women Tech Quest 2026: Build with AI</b><br/>10Pearls · Oct 2026 (Participation)</sub>
     </td>
     <td align="center" width="33%">
-      <a href="certificates/anthropic-ai-fluency.pdf"><img src="certificates/previews/anthropic-ai-fluency.png" width="260" alt="AI Fluency: Framework &amp; Foundations"/></a><br/>
+      <a href="anthropic-ai-fluency.pdf"><img src="anthropic-ai-fluency.png" width="260" alt="AI Fluency: Framework &amp; Foundations"/></a><br/>
       <sub><b>AI Fluency: Framework &amp; Foundations</b><br/>Anthropic · 2026</sub>
     </td>
   </tr>
   <tr>
     <td align="center" width="33%">
-      <a href="certificates/cisco-javascript-essentials-1.pdf"><img src="certificates/previews/cisco-javascript-essentials-1.png" width="260" alt="JavaScript Essentials 1"/></a><br/>
+      <a href="cisco-javascript-essentials-1.pdf"><img src="cisco-javascript-essentials-1.png" width="260" alt="JavaScript Essentials 1"/></a><br/>
       <sub><b>JavaScript Essentials 1</b><br/>Cisco Networking Academy · Dec 2025</sub>
     </td>
     <td align="center" width="33%">
-      <a href="certificates/cisco-html-essentials.pdf"><img src="certificates/previews/cisco-html-essentials.png" width="260" alt="HTML Essentials"/></a><br/>
+      <a href="cisco-html-essentials.pdf"><img src="cisco-html-essentials.png" width="260" alt="HTML Essentials"/></a><br/>
       <sub><b>HTML Essentials</b><br/>Cisco Networking Academy · Dec 2025</sub>
     </td>
     <td align="center" width="33%">
-      <a href="certificates/cisco-css-essentials.pdf"><img src="certificates/previews/cisco-css-essentials.png" width="260" alt="CSS Essentials"/></a><br/>
+      <a href="cisco-css-essentials.pdf"><img src="cisco-css-essentials.png" width="260" alt="CSS Essentials"/></a><br/>
       <sub><b>CSS Essentials</b><br/>Cisco Networking Academy · Dec 2025</sub>
     </td>
   </tr>
