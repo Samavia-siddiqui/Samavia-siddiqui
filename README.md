@@ -1,108 +1,83 @@
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=cylinder&color=gradient&customColorList=19,20,25&height=200&section=header&text=Samavia%20Siddiqui&fontSize=46&fontColor=fff&animation=twinkling&fontAlignY=45&desc=Frontend%20Developer%20%7C%20GBOB%20Specialist%20%7C%20Full%20Stack%20in%20Progress&descAlignY=65&descSize=14" width="100%"/>
-  
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=15&pause=1000&color=00E5C3&center=true&vCenter=true&width=680&lines=💻+Building+clean+web+interfaces+with+React+%26+Tailwind;🔗+Guest+Post+%26+Link+Building+Outreach+Specialist;🌿+Tech+%7C+Health+%7C+Finance+%7C+Fashion+%7C+Home+Decor;📚+SMIT+Batch+17+%7C+Full+Stack+by+July+2026;✍️+Content+Writer+%7C+SEO+%7C+Backlink+Placements" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0A0A0B&height=170&section=header&text=Samavia%20Siddiqui&fontSize=46&fontColor=FFFFFF&desc=Full%20Stack%20Developer%20%7C%20React%20%C2%B7%20Node.js%20%C2%B7%20MongoDB&descSize=18&descAlignY=68&fontAlignY=42" width="100%" alt="Samavia Siddiqui, Full Stack Developer"/>
+
+**I build fast, animated web apps for businesses that want to stand out.**
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-samavia--siddiqui.vercel.app-FF8C00?style=for-the-badge)](https://samavia-siddiqui.vercel.app)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A0A0B?style=for-the-badge)](https://www.linkedin.com/in/samavia-siddiqui-398322381)
+[![Email](https://img.shields.io/badge/Email-Hire%20me-0A0A0B?style=for-the-badge)](mailto:samaviasiddiqui3@gmail.com)
 
 </div>
 
 ---
 
-<div align="center">
+## 👋 About
 
-<img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="280" alt="girl typing coding"/>
+Full Stack Developer from **Karachi, Pakistan**, working with the **MERN stack**. I'm also a Front-end AI Engineering intern at FlyRank AI. I've built **15 live projects**, from landing pages to full stack apps with login, dashboards and APIs.
 
-</div>
-
----
-
-<div align="center">
-
-```
-┌─────────────────────────────────────────────────────────────┐
-│                                                             │
-│   💻  DEV SIDE      →   React · JS · Node · MongoDB        │
-│   🔗  GBOB SIDE     →   Outreach · Backlinks · Content     │
-│   📚  LEARNING      →   Full Stack @ SMIT Batch 17         │
-│   📍  LOCATION      →   Karachi, Pakistan                  │
-│                                                             │
-└─────────────────────────────────────────────────────────────┘
-```
-
-</div>
-
----
-
-## 🧠 `whoami`
+Open to **freelance web development** projects.
 
 ```javascript
 const samavia = {
-
-  // 💻 Developer Side
-  role         : "Frontend Developer → Full Stack (July 2026)",
-  devStack     : ["React.js", "JavaScript", "Tailwind CSS", "HTML/CSS"],
-  learning     : ["Node.js", "Express.js", "MongoDB"],
-  education    : "SMIT — Saylani Mass IT Training | Batch 17",
-  teacher      : "Ms. Tayyaba Ali",
-
-  // 🔗 GBOB Side
-  gbobRole     : "Guest Post & Link Building Outreach Specialist",
-  niches       : ["Tech", "Health", "Finance", "Fashion", "Home Decor"],
-  services     : ["Vendor Research", "Cold Outreach", "Backlinks", "Content Writing"],
-
-  // 🌍 Info
-  location     : "Karachi, Pakistan 🇵🇰",
-  portfolio    : "samavia-portfolio.vercel.app",
-  email        : "samaviasiddiqui3@gmail.com",
-  openTo       : true,   // freelance + collaborations
-  motto        : "Checkmarks > Excuses. ✅"
-
+  role: "Full Stack Developer",
+  stack: ["React", "Node.js", "Express", "MongoDB", "Tailwind CSS", "Framer Motion"],
+  training: "Modern Web Application Development, SMIT (completed Jul 2026)",
+  location: "Karachi, Pakistan",
+  openTo: "Freelance web development",
 };
 ```
 
 ---
 
-## 💻 Dev Stack
+## 🛠 Tech stack
 
 <div align="center">
-<img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,bootstrap,nodejs,express,mongodb,git,github,vscode,figma&perline=7" />
+<img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,nodejs,express,mongodb,git,github,vscode,vercel&perline=12" alt="Tech stack"/>
 </div>
 
 ---
 
-## 🔗 GBOB Services
+## 💼 What I build
 
-<div align="center">
-
-| 🎯 Service | 📋 Details |
+| Service | Details |
 |---|---|
-| **Niche Vendor Research** | Tech · Health · Finance · Fashion · Home Decor |
-| **Cold Email Outreach** | Personalized campaigns to high-DA/DR sites |
-| **Site Vetting** | DA · DR · Traffic · AS check before placement |
-| **Content Writing** | SEO-optimized guest posts for niche placements |
-| **Backlink Reporting** | Live URL + DA/DR proof delivered to clients |
+| **Full Stack Web Apps** | React + Node/Express + MongoDB, login, dashboards, REST APIs |
+| **Landing Pages & Business Websites** | Responsive, fast, with smooth animations and a working contact form |
+| **Website Redesign** | Modernising slow or outdated websites |
 
-</div>
+Get a quote: [samavia-siddiqui.vercel.app](https://samavia-siddiqui.vercel.app)
 
 ---
 
-## 🚀 Dev Projects
+## 🚀 Full stack projects (MERN)
 
-| # | Project | Description | Tech | Live |
-|---|---------|-------------|------|------|
-| 01 | **Prime Estates** | Responsive real estate landing page | HTML · CSS · JS | [↗](https://samavia-portfolio.vercel.app) |
-| 02 | **DevFlow** | Strongest project in portfolio | React · Tailwind | [↗](https://github.com/Samavia-siddiqui) |
-| 03 | **Music Player** | Custom vinyl UI with playlist | HTML · CSS · JS | [↗](https://github.com/Samavia-siddiqui) |
-| 04 | **Calculator App** | Clean functional calculator | HTML · CSS · JS | [↗](https://github.com/Samavia-siddiqui) |
+| Project | What it is | Tech | Links |
+|---|---|---|---|
+| **Orbit Support Flow** | Real-time support ticket dashboard with agent roles, WebSockets and JWT login | React · Node.js · Express · MongoDB | [Live](https://orbit-support-flow-final-hackathon.vercel.app/) · [Code](https://github.com/Samavia-siddiqui/Orbit-Support-Flow-Final-Hackathon-Project) |
+| **SplitEasy** | Shared expense tracker with groups, invites and balance settlement | React · Node.js · Express · MongoDB | [Live](https://expence-traker-psi.vercel.app/) · [Code](https://github.com/Samavia-siddiqui/Expence-traker) |
+| **StudyMate** | AI study assistant that builds 3-day roadmaps by subject and importance | React · Node.js · Express · MongoDB · AI | [Live](https://studymate-ai-bay-delta.vercel.app/) · [Code](https://github.com/Samavia-siddiqui/Studymate-Ai) |
+| **GlowNotes** | Notes app with full CRUD, dark mode and Framer Motion animations | React · Node.js · Express · MongoDB | [Live](https://notes-app-tawny-rho-40.vercel.app/) · [Code](https://github.com/Samavia-siddiqui/NotesApp) |
+| **ShowCase** | Developer hub to add and browse projects with accounts | React · Node.js · Express · MongoDB | [Code](https://github.com/Samavia-siddiqui/Project-showcaser-App) |
 
----
+<details>
+<summary><b>More projects: front-end and landing pages (10)</b></summary>
 
-## 📝 Latest Article
+<br/>
 
-<div align="center">
+| Project | What it is | Tech | Links |
+|---|---|---|---|
+| **Sami's Collections** | E-commerce front-end with cart, blog and contact form | React · Tailwind · Framer Motion | [Live](https://ecommerce-store-chi-five.vercel.app/) · [Code](https://github.com/Samavia-siddiqui/Ecommerce-Store) |
+| **Verde** | Sneaker store with quick add and dark/light mode | React · Tailwind · Framer Motion | [Live](https://shoe-web-two.vercel.app/) · [Code](https://github.com/Samavia-siddiqui/Shoe-web) |
+| **CraveBite** | Fast food website with menu, cart buttons and contact form | React · Tailwind · Framer Motion | [Live](https://fast-food-website-vr2g.vercel.app/) · [Code](https://github.com/Samavia-siddiqui/CraveBite) |
+| **HerDailyFinds** | Lifestyle blog with curated finds and dark mode | React · Tailwind · Framer Motion | [Live](https://her-daily-finds.vercel.app/) · [Code](https://github.com/Samavia-siddiqui/HerDailyFinds) |
+| **FlavorRush** | Dark animated single-page restaurant site | React · TypeScript · Vite · Tailwind | [Live](https://fast-food-website-blond.vercel.app/) · [Code](https://github.com/Samavia-siddiqui/Fast-food-website) |
+| **Devflow** | SaaS-style landing page with reusable components | React · Tailwind | [Live](https://dev-flow-topaz.vercel.app/) · [Code](https://github.com/Samavia-siddiqui/DevFlow) |
+| **BloomHaven** | Flower shop website with reusable components | React | [Live](https://bloom-haven-gules.vercel.app/) · [Code](https://github.com/Samavia-siddiqui/Bloom-Haven) |
+| **BLOOMING Creations** | Flower bouquet site in pure HTML and CSS | HTML · CSS | [Live](https://samavia-siddiqui.github.io/BLOOMING-creations/) · [Code](https://github.com/Samavia-siddiqui/BLOOMING-creations) |
+| **WanderLust** | Travel blog landing site | HTML · CSS · JavaScript | [Live](https://wander-lust-project-eight.vercel.app/) · [Code](https://github.com/Samavia-siddiqui/WanderLust-Project) |
+| **Prime Estates** | Real estate landing page | HTML · CSS | [Live](https://real-state-landing-page-ebon.vercel.app/) · [Code](https://github.com/Samavia-siddiqui/Real-State-Landing-page) |
 
-[![Article](https://img.shields.io/badge/📖_Read_on_LinkedIn-How_I_Find_Guest_Post_Vendors_for_Free-7C3AED?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/pulse/how-i-find-guest-post-vendors-free-paid-tools-needed-samavia-siddiqui-k4mze)
-
-</div>
+</details>
 
 ---
 
@@ -110,56 +85,23 @@ const samavia = {
 
 <div align="center">
 
-![](https://img.shields.io/badge/JavaScript_Essentials-Cisco-00E5C3?style=flat-square&logo=cisco&logoColor=white)
-![](https://img.shields.io/badge/HTML_&_CSS-Cisco-00E5C3?style=flat-square&logo=cisco&logoColor=white)
-![](https://img.shields.io/badge/Cybersecurity-Cisco-00E5C3?style=flat-square&logo=cisco&logoColor=white)
-![](https://img.shields.io/badge/AI_for_Business-HP_LIFE-7C3AED?style=flat-square&logo=hp&logoColor=white)
-![](https://img.shields.io/badge/Verified-Credly-7C3AED?style=flat-square&logo=credly&logoColor=white)
+![SMIT](https://img.shields.io/badge/SMIT-Modern_Web_Application_Development-FF8C00?style=flat-square)
+![Cisco](https://img.shields.io/badge/Cisco-JavaScript_Essentials_1-0A0A0B?style=flat-square)
+![Cisco](https://img.shields.io/badge/Cisco-HTML_Essentials-0A0A0B?style=flat-square)
+![Cisco](https://img.shields.io/badge/Cisco-CSS_Essentials-0A0A0B?style=flat-square)
+![10Pearls](https://img.shields.io/badge/10Pearls-Women_Tech_Quest_2026-0A0A0B?style=flat-square)
+![Anthropic](https://img.shields.io/badge/Anthropic-AI_Fluency-0A0A0B?style=flat-square)
 
 </div>
 
 ---
 
-## 📊 GitHub Stats
+## 🤝 Let's work together
+
+Have a project in mind? Send me your idea, budget and deadline.
+
+**Portfolio:** [samavia-siddiqui.vercel.app](https://samavia-siddiqui.vercel.app) · **LinkedIn:** [Samavia Siddiqui](https://www.linkedin.com/in/samavia-siddiqui-398322381) · **Email:** samaviasiddiqui3@gmail.com
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Samavia-siddiqui&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=00E5C3&icon_color=7C3AED&text_color=ffffff&cache_seconds=1800" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Samavia-siddiqui&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=00E5C3&text_color=ffffff&cache_seconds=1800" height="165"/>
-</div>
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=Samavia-siddiqui&theme=dark&hide_border=true&background=0D1117&ring=00E5C3&fire=7C3AED&currStreakLabel=00E5C3" />
-</div>
-
----
-
-## 🐍 Contribution
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="snake animation"/>
-</div>
-
----
-
-## 🤝 Connect
-
-<div align="center">
-
-[![GitHub](https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=00E5C3)](https://github.com/Samavia-siddiqui)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=7C3AED)](https://www.linkedin.com/in/samavia-siddiqui-398322381)
-[![Portfolio](https://img.shields.io/badge/Portfolio-0D1117?style=for-the-badge&logo=vercel&logoColor=00E5C3)](https://samavia-portfolio.vercel.app)
-[![Gmail](https://img.shields.io/badge/Gmail-0D1117?style=for-the-badge&logo=gmail&logoColor=7C3AED)](mailto:samaviasiddiqui3@gmail.com)
-
-</div>
-
----
-
-<div align="center">
-
-*"Build things. Place links. Keep going. ✅"*
-
-<img src="https://capsule-render.vercel.app/api?type=cylinder&color=gradient&customColorList=19,20,25&height=100&section=footer&reversal=true" width="100%"/>
-
-<img src="https://komarev.com/ghpvc/?username=Samavia-siddiqui&label=Profile+Views&color=00E5C3&style=flat" />
-
+<img src="https://capsule-render.vercel.app/api?type=rect&color=FF8C00&height=6&section=footer" width="100%" alt=""/>
 </div>
