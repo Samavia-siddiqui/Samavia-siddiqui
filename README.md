@@ -85,14 +85,40 @@ Get a quote: [samavia-siddiqui.vercel.app](https://samavia-siddiqui.vercel.app)
 
 <div align="center">
 
-![SMIT](https://img.shields.io/badge/SMIT-Modern_Web_Application_Development-FF8C00?style=flat-square)
-![Cisco](https://img.shields.io/badge/Cisco-JavaScript_Essentials_1-0A0A0B?style=flat-square)
-![Cisco](https://img.shields.io/badge/Cisco-HTML_Essentials-0A0A0B?style=flat-square)
-![Cisco](https://img.shields.io/badge/Cisco-CSS_Essentials-0A0A0B?style=flat-square)
-![10Pearls](https://img.shields.io/badge/10Pearls-Women_Tech_Quest_2026-0A0A0B?style=flat-square)
-![Anthropic](https://img.shields.io/badge/Anthropic-AI_Fluency-0A0A0B?style=flat-square)
+<table>
+  <tr>
+    <td align="center" width="33%">
+      <a href="certificates/previews/smit-modern-web-application-development.png"><img src="certificates/previews/smit-modern-web-application-development.png" width="260" alt="Modern Web Application Development"/></a><br/>
+      <sub><b>Modern Web Application Development</b><br/>Saylani Mass IT Training · May 2025 to Jul 2026</sub>
+    </td>
+    <td align="center" width="33%">
+      <a href="certificates/women-tech-quest-2026-participation.pdf"><img src="certificates/previews/women-tech-quest-2026-participation.png" width="260" alt="Women Tech Quest 2026: Build with AI"/></a><br/>
+      <sub><b>Women Tech Quest 2026: Build with AI</b><br/>10Pearls · Oct 2026 (Participation)</sub>
+    </td>
+    <td align="center" width="33%">
+      <a href="certificates/anthropic-ai-fluency.pdf"><img src="certificates/previews/anthropic-ai-fluency.png" width="260" alt="AI Fluency: Framework &amp; Foundations"/></a><br/>
+      <sub><b>AI Fluency: Framework &amp; Foundations</b><br/>Anthropic · 2026</sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="33%">
+      <a href="certificates/cisco-javascript-essentials-1.pdf"><img src="certificates/previews/cisco-javascript-essentials-1.png" width="260" alt="JavaScript Essentials 1"/></a><br/>
+      <sub><b>JavaScript Essentials 1</b><br/>Cisco Networking Academy · Dec 2025</sub>
+    </td>
+    <td align="center" width="33%">
+      <a href="certificates/cisco-html-essentials.pdf"><img src="certificates/previews/cisco-html-essentials.png" width="260" alt="HTML Essentials"/></a><br/>
+      <sub><b>HTML Essentials</b><br/>Cisco Networking Academy · Dec 2025</sub>
+    </td>
+    <td align="center" width="33%">
+      <a href="certificates/cisco-css-essentials.pdf"><img src="certificates/previews/cisco-css-essentials.png" width="260" alt="CSS Essentials"/></a><br/>
+      <sub><b>CSS Essentials</b><br/>Cisco Networking Academy · Dec 2025</sub>
+    </td>
+  </tr>
+</table>
 
 </div>
+
+Also: Cisco *Introduction to Cybersecurity* and HP LIFE *AI for Business Professionals* (see [LinkedIn](https://www.linkedin.com/in/samavia-siddiqui-398322381)). Click a certificate to open the full PDF.
 
 ---
 
